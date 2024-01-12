@@ -1,3 +1,56 @@
+frontend livelink:https://nextjs-front-end-event-management-and-planning-fccq4pt0z.vercel.app
+backend livelink:https://event-management-and-planning-955nyypit.vercel.app/api/v1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
