@@ -1,6 +1,13 @@
 frontend livelink:https://nextjs-front-end-event-management-and-planning-fccq4pt0z.vercel.app
 backend livelink:https://event-management-and-planning-955nyypit.vercel.app/api/v1
 
+frontend env: NEXTAUTH_SECRET=secret
+JWT_SECRET=backend-for-event
+
+NEXT_PUBLIC_BACKEND_URL=http://localhost:3005/api/v1
+
+backend env: 
+
 
 
 
